@@ -1,0 +1,8 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+.agent-logs/
+.agent-history/
+__pycache__/
